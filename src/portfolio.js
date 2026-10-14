@@ -114,12 +114,12 @@ const workExperiences = {
       role: "Director - Resource & Management",
       company: "India International Movement to Unite Nations (IIMUN)",
       companylogo: require("./assets/images/iimun logo.jpeg"),
-      date: "2025 – Present",
+      date: "2025 - 2026",
       desc: "Oversaw logistics planning, resource deployment, and real-time issue resolution. Managed delegate registration, ID issuance, access allocation, and financial reconciliation while leading a dedicated operations team."
     },
     {
-      role: "Operations Lead - Delhi Civil Servants Tour",
-      company: "IIMUN Initiate | Delhi",
+      role: "Operations Lead ",
+      company: " Delhi Civil Servants Tour | Delhi",
       companylogo: require("./assets/images/iimun logo.jpeg"),
       date: "November 2025",
       desc: "Executed operations for a 4-day national-level exposure tour involving 23 selected delegates from across India. Acted as primary on-ground coordinator managing security, protocols, and official Parliament visits."
@@ -128,7 +128,7 @@ const workExperiences = {
       role: "Associate Management Intern",
       company: "BMW Eminet Cars",
       companylogo: require("./assets/images/bmw.jpeg"),
-      date: "2025",
+      date: "May 2025",
       desc: "Handled daily on-site management and operational tasks within a professional corporate office environment, assisting with task coordination and operational problem-solving."
     }
   ]
@@ -157,7 +157,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/yip.jpeg"),
       projectName: "Young Indian Parliament",
       projectDesc: "Represented at a national-level forum involving structured parliamentary procedures, formal deliberations, and public speaking.",
       footerLink: []
@@ -181,7 +181,7 @@ const achievementSection = {
     {
       title: "NCC Cadet",
       subtitle: "3rd Rajasthan Naval Unit National Cadet Corps: Engaging in naval cadet training, discipline, and swimming practice.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/ncc.png"),
       imageAlt: "NCC Logo",
       footerLink: []
     }
