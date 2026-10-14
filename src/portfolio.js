@@ -19,7 +19,7 @@ const greeting = {
   username: "Shrey Dhuvad",
   title: "Hi all, I'm Shrey",
   subTitle: emoji(
-    "A passionate Software Developer & Operations Strategist combining IoT engineering with high-accountability event management and national-level leadership."
+    "An Enthusiatic Learner with top internship experience in MNC like BMW, GE Aerospace & Wallet. "
   ),
   resumeLink:
     "https://drive.google.com/drive/folders/1-98RTLL74dRmtUht3sKJYa60JgwDqhvW?usp=sharing",
@@ -30,18 +30,18 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Glitched-PC",
   linkedin: "https://www.linkedin.com/in/shrey-dhuvad",
-  gmail: "Shreydhuvad@gmail.com",
+  gmail: "appwizardd@gmail.com",
   display: true
 };
 
 // Skills Section (Fixed: skills must be strings, softwareSkills are objects)
 const skillsSection = {
   title: "What I do",
-  subTitle: "SOFTWARE DEVELOPMENT, IOT & HIGH-ACCOUNTABILITY EVENT OPERATIONS",
+  subTitle: "I'm a B.Tech CSE student who identifies real-world problems and builds scalable tech-driven solutions—from hardware telemetry to full-stack applications",
   skills: [
-    emoji("⚡ Develop robust full-stack software and backend architectures using Python, C/C++, and PostgreSQL"),
-    emoji("⚡ Build IoT hardware prototypes and radio frequency telemetry systems using ESP32 and microcontrollers"),
-    emoji("⚡ Lead high-accountability national event operations, logistics, and delegate management")
+    emoji("⚡ Currently Building solution for Indian Railways for the problems faced by Millions of Travellers."),
+    emoji("⚡ Enrolled in Finale of Smart India Hackathon & Google Hackathon 2026"),
+    emoji("")
   ],
 
   softwareSkills: [
@@ -54,16 +54,8 @@ const skillsSection = {
       fontAwesomeClassname: "fas fa-code"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
       skillName: "HTML5",
       fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "CSS3",
-      fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
       skillName: "PostgreSQL",
@@ -85,11 +77,10 @@ const educationInfo = {
       schoolName: "NIMS University, Jaipur",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
-      duration: "2026 - Present",
+      duration: "2026 - 2030",
       desc: "First-year undergraduate student pursuing B.Tech CSE, focusing on software architecture, IoT hardware prototyping, and systems engineering.",
       descBullets: [
-        "Cadet in the 3rd Rajasthan Naval Unit NCC",
-        "Active participant in technical hackathons and national forums"
+        "Cadet in the 3rd Rajasthan Naval Unit NCC"
       ]
     }
   ]
