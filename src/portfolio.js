@@ -1,4 +1,4 @@
-/* Change this file to get your personal Portfolio */
+  /* Change this file to get your personal Portfolio */
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation";
@@ -75,7 +75,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "NIMS University, Jaipur",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/nims logo.png"),
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
       duration: "2026 - 2030",
       desc: "First-year undergraduate student pursuing B.Tech CSE, focusing on software architecture, IoT hardware prototyping, and systems engineering.",
@@ -113,14 +113,14 @@ const workExperiences = {
     {
       role: "Director - Resource & Management",
       company: "India International Movement to Unite Nations (IIMUN)",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/iimun logo.png"),
       date: "2025 – Present",
       desc: "Oversaw logistics planning, resource deployment, and real-time issue resolution. Managed delegate registration, ID issuance, access allocation, and financial reconciliation while leading a dedicated operations team."
     },
     {
       role: "Operations Lead - Delhi Civil Servants Tour",
       company: "IIMUN Initiate | Delhi",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/iimun logo.png"),
       date: "November 2025",
       desc: "Executed operations for a 4-day national-level exposure tour involving 23 selected delegates from across India. Acted as primary on-ground coordinator managing security, protocols, and official Parliament visits."
     },
