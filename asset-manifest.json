@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MeFolio/static/css/main.e70d76bc.css",
-    "main.js": "/MeFolio/static/js/main.72331aab.js",
+    "main.js": "/MeFolio/static/js/main.500306aa.js",
     "static/css/64.bba8fa55.chunk.css": "/MeFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/MeFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/MeFolio/static/css/769.b3cbb36b.chunk.css",
@@ -24,7 +24,7 @@
     "index.html": "/MeFolio/index.html",
     "static/media/talksCardBack.svg": "/MeFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.e70d76bc.css.map": "/MeFolio/static/css/main.e70d76bc.css.map",
-    "main.72331aab.js.map": "/MeFolio/static/js/main.72331aab.js.map",
+    "main.500306aa.js.map": "/MeFolio/static/js/main.500306aa.js.map",
     "64.bba8fa55.chunk.css.map": "/MeFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/MeFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/MeFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.e70d76bc.css",
-    "static/js/main.72331aab.js"
+    "static/js/main.500306aa.js"
   ]
 }
