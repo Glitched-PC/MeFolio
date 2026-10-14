@@ -75,7 +75,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "NIMS University, Jaipur",
-      logo: require("./assets/images/nims logo.png"),
+      logo: require("./assets/images/nims logo.jpeg"),
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
       duration: "2026 - 2030",
       desc: "First-year undergraduate student pursuing B.Tech CSE, focusing on software architecture, IoT hardware prototyping, and systems engineering.",
@@ -113,21 +113,21 @@ const workExperiences = {
     {
       role: "Director - Resource & Management",
       company: "India International Movement to Unite Nations (IIMUN)",
-      companylogo: require("./assets/images/iimun logo.png"),
+      companylogo: require("./assets/images/iimun logo.jpeg"),
       date: "2025 – Present",
       desc: "Oversaw logistics planning, resource deployment, and real-time issue resolution. Managed delegate registration, ID issuance, access allocation, and financial reconciliation while leading a dedicated operations team."
     },
     {
       role: "Operations Lead - Delhi Civil Servants Tour",
       company: "IIMUN Initiate | Delhi",
-      companylogo: require("./assets/images/iimun logo.png"),
+      companylogo: require("./assets/images/iimun logo.jpeg"),
       date: "November 2025",
       desc: "Executed operations for a 4-day national-level exposure tour involving 23 selected delegates from across India. Acted as primary on-ground coordinator managing security, protocols, and official Parliament visits."
     },
     {
       role: "Associate Management Intern",
       company: "BMW Eminet Cars",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/bmw.jpeg"),
       date: "2025",
       desc: "Handled daily on-site management and operational tasks within a professional corporate office environment, assisting with task coordination and operational problem-solving."
     }
