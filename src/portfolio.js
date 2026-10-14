@@ -147,21 +147,21 @@ const workExperiences = {
       company: "India International Movement to Unite Nations (IIMUN)",
       companylogo: require("./assets/images/facebookLogo.png"), // Placeholder logo asset reference
       date: "2025 – Present",
-      desc: "Oversaw logistics planning, resource deployment, and real-time issue resolution. Managed delegate registration, ID issuance, access allocation, and financial reconciliation while leading a dedicated operations team[cite: 1]."
+      desc: "Oversaw logistics planning, resource deployment, and real-time issue resolution. Managed delegate registration, ID issuance, access allocation, and financial reconciliation while leading a dedicated operations team."
     },
     {
       role: "Operations Lead - Delhi Civil Servants Tour",
       company: "IIMUN Initiate | Delhi",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "November 2025",
-      desc: "Executed operations for a 4-day national-level exposure tour involving 23 selected delegates from across India. Acted as primary on-ground coordinator managing security, protocols, and official Parliament visits[cite: 1]."
+      desc: "Executed operations for a 4-day national-level exposure tour involving 23 selected delegates from across India. Acted as primary on-ground coordinator managing security, protocols, and official Parliament visits."
     },
     {
       role: "Associate Management Intern",
       company: "BMW Eminet Cars",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "2025",
-      desc: "Handled daily on-site management and operational tasks within a professional corporate office environment, assisting with task coordination and operational problem-solving[cite: 1]."
+      desc: "Handled daily on-site management and operational tasks within a professional corporate office environment, assisting with task coordination and operational problem-solving."
     }
   ]
 };
@@ -170,8 +170,8 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  showGithubProfile: "false", // Disabled to prevent API rate limit crashes
+  display: false // Set false to hide this section safely
 };
 
 // Some big projects you have worked on
@@ -194,7 +194,7 @@ const bigProjects = {
     {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Young Indian Parliament",
-      projectDesc: "Represented at a national-level forum involving structured parliamentary procedures, formal deliberations, and public speaking[cite: 1].",
+      projectDesc: "Represented at a national-level forum involving structured parliamentary procedures, formal deliberations, and public speaking.",
       footerLink: []
     }
   ],
@@ -213,7 +213,7 @@ const achievementSection = {
     {
       title: "Headboy",
       subtitle:
-        "Shree Jalaram International School: Represented the student body, coordinated between administration and students, and led large-scale event planning[cite: 1].",
+        "Shree Jalaram International School: Represented the student body, coordinated between administration and students, and led large-scale event planning.",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "School Leadership",
       footerLink: []
@@ -221,7 +221,7 @@ const achievementSection = {
     {
       title: "NCC Cadet",
       subtitle:
-        "3rd Rajasthan Naval Unit National Cadet Corps: Engaging in naval cadet training, discipline, and swimming practice[cite: 1].",
+        "3rd Rajasthan Naval Unit National Cadet Corps: Engaging in naval cadet training, discipline, and swimming practice.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "NCC Logo",
       footerLink: []
@@ -276,7 +276,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project, collaboration, or just want to say hi? My Inbox is open for all.",
   number: "+91 70160 21108",
-  email_address: "appwizardd@gmail.com"
+  email_address: "Shreydhuvad@gmail.com"
 };
 
 // Twitter Section
